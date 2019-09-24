@@ -6,7 +6,7 @@ webhook_url:
 sections: 
   - type: directory
     label: Data
-    path: static/datastore
+    path: static/storedata
     match: "*.json"
     new_doc_ext: ".json"
     create: all
