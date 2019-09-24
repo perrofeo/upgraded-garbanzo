@@ -1,0 +1,35 @@
+---
+label: Data
+hide_body: true
+fields:
+- type: field_group_list
+  name: Storedata
+  label: Storedata
+  fields:
+  - type: text
+    name: id
+    label: id
+  - type: text
+    name: color
+    label: color
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: gender
+    label: gender
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: review
+    label: review
+  - type: text
+    name: starrating
+    label: starrating
+  - type: text
+    name: price
+    label: price
+  - type: file
+    name: img
+    label: img
