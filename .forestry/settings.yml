@@ -12,7 +12,7 @@ sections:
   new_doc_ext: json
 upload_dir: static/products
 public_path: static/products
-front_matter_path: ''
+front_matter_path: static/products
 use_front_matter_path: true
 file_template: ":filename:"
 build:
