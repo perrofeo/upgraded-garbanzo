@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections: 
+  - type: directory
+    label: Data
+    path: static/datastore
+    match: "*.json"
+    new_doc_ext: ".json"
+    create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
