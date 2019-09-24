@@ -1,5 +1,16 @@
 [
   {
+    "id": "1",
+    "color": "verde",
+    "description": "lorem tuti fruti",
+    "gender": "male",
+    "name": "Tarro de mantequilla",
+    "review": "",
+    "starrating": "",
+    "price": "20",
+    "img": ""
+  },
+  {
     "id": "9d436e98-1dc9-4f21-9587-76d4c0255e33",
     "color": "Goldenrod",
     "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
@@ -73,7 +84,7 @@
     "name": "Bartolemo Peckitt",
     "review": "enable cutting-edge e-services",
     "starrating": 3,
-    "price": 130.0,
+    "price": 130,
     "img": "7.png"
   },
   {
@@ -106,7 +117,7 @@
     "name": "Cal Sterman",
     "review": "benchmark synergistic bandwidth",
     "starrating": 3,
-    "price": 50.0,
+    "price": 50,
     "img": "10.jpg"
   },
   {
@@ -117,7 +128,7 @@
     "name": "Ardine Imlaw",
     "review": "repurpose robust e-business",
     "starrating": 4,
-    "price": 65.0,
+    "price": 65,
     "img": "11.png"
   },
   {
@@ -128,7 +139,7 @@
     "name": "Noella Ruddom",
     "review": "redefine 24/365 eyeballs",
     "starrating": 3,
-    "price": 72.0,
+    "price": 72,
     "img": "12.png"
   },
   {
@@ -161,7 +172,7 @@
     "name": "Arden Stockbridge",
     "review": "orchestrate value-added infrastructures",
     "starrating": 4,
-    "price": 100.0,
+    "price": 100,
     "img": "15.png"
   },
   {
@@ -260,7 +271,7 @@
     "name": "Bogey Cheyne",
     "review": "benchmark mission-critical convergence",
     "starrating": 5,
-    "price": 110.0,
+    "price": 110,
     "img": "5.png"
   },
   {
@@ -293,7 +304,7 @@
     "name": "Franciska Hallett",
     "review": "generate customized e-services",
     "starrating": 4,
-    "price": 20.0,
+    "price": 20,
     "img": "8.png"
   },
   {
@@ -315,7 +326,7 @@
     "name": "Rori Marishenko",
     "review": "recontextualize B2B markets",
     "starrating": 3,
-    "price": 190.0,
+    "price": 190,
     "img": "10.jpg"
   },
   {
