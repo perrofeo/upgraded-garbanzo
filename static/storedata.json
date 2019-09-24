@@ -1,5 +1,16 @@
 [
   {
+    "id": "",
+    "color": "",
+    "description": "",
+    "gender": "",
+    "name": "",
+    "review": "",
+    "starrating": "",
+    "price": "",
+    "img": ""
+  },
+  {
     "id": "1",
     "color": "verde",
     "description": "lorem tuti fruti",
