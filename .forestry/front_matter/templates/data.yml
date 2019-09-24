@@ -33,4 +33,8 @@ fields:
   - type: file
     name: img
     label: img
-      
+- name: test-img
+  type: file
+  config:
+    maxSize: 250
+  label: test-img
