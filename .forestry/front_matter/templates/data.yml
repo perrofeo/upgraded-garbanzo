@@ -31,5 +31,5 @@ fields:
     name: price
     label: price
   - type: file
-    name: image
+    name: img
     label: img
